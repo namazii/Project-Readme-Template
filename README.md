@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+   <img src="url" alt="XCode Version">
+   <img src="url" alt="IOS Version">
+   <img src="url" alt="Project Version">
+   <img src="url" alt="License">
 </p>
 
 ## About
@@ -26,3 +27,4 @@ Documentation Here
 - [Delevoper Name](GitHub Profile Link)
 
 ## License
+Project is distributed under the MIT license.
